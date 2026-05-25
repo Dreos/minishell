@@ -1,1 +1,1 @@
-Small version of a shell build from scratch by A.gegemb and myself
+Small version of a shell build from scratch by A.gengemb and myself
